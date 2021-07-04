@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1526280798 source:e:\c programming\oops\final\game.cpp
+	<iostream>
+	"Game.h"
+
+1526708882 e:\c programming\oops\final\game.h
+
+1526708882 source:e:\c programming\oops\final\main.cpp
+	<iostream>
+	"Game.h"
+	"Players_1.h"
+	"Players_2.h"
+
+1526269391 e:\c programming\oops\final\players_1.h
+	"Game.h"
+
+1526269563 e:\c programming\oops\final\players_2.h
+	"Game.h"
+
+1526281396 source:e:\c programming\oops\final\players_1.cpp
+	<iostream>
+	"Players_1.h"
+	<bits/stdc++.h>
+
+1526281431 source:e:\c programming\oops\final\players_2.cpp
+	<iostream>
+	"Game.h"
+	"Players_2.h"
+
+1526280798 source:d:\studies\package\sem 2\oops\final\game.cpp
+	<iostream>
+	"Game.h"
+
+1526708882 d:\studies\package\sem 2\oops\final\game.h
+
+1625428905 source:d:\studies\package\sem 2\oops\final\main.cpp
+	<iostream>
+	"Game.h"
+	"Players_1.h"
+	"Players_2.h"
+
+1526269391 d:\studies\package\sem 2\oops\final\players_1.h
+	"Game.h"
+
+1526269563 d:\studies\package\sem 2\oops\final\players_2.h
+	"Game.h"
+
+1625431340 source:d:\studies\package\sem 2\oops\final\players_1.cpp
+	<iostream>
+	"Players_1.h"
+	<bits/stdc++.h>
+
+1625429332 source:d:\studies\package\sem 2\oops\final\players_2.cpp
+	<iostream>
+	"Game.h"
+	"Players_2.h"
+
